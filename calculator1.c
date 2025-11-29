@@ -45,7 +45,7 @@ int main(){
 		}	
 		else if(choice==5)
 		{
-			printf("%\t");
+			printf("\t");
 			res=pos(res);
 		}	
 		else if(choice==6)
@@ -56,7 +56,7 @@ int main(){
 		else if(choice==7)
 		{
 			print_number(res);
-			printf("Result: %d\n", res);
+			printf("Result: %f\n", res);
 		}
 		else if(choice==8)
 		{
